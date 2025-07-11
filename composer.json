@@ -1,0 +1,1 @@
+{"name": "yahyadeveloper9/php-micro-framework", "autoload": {"psr-4": {"Framework\\": "src/"}}}
